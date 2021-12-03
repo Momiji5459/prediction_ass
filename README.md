@@ -1,6 +1,7 @@
 # prediction_ass
 Assignment  for "Peer-graded Assignment: Prediction Assignment Writeup"
-This is RPub for looking easily. https://rpubs.com/Looloozz/Thanida_PredictionAss_Course
+This is RPub for looking easily.
+# https://rpubs.com/Looloozz/Thanida_PredictionAss_Course
 
 This folder also contains both prediction_ass.rmd and prediction_ass.html for this assignment.
 
