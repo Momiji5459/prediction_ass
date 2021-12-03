@@ -4,7 +4,7 @@ This is RPub for looking easily.
 # https://rpubs.com/Looloozz/Thanida_PredictionAss_Course
 
 This folder also contains both prediction_ass.rmd and prediction_ass.html for this assignment.
-
+### P.S. This assignment worked on RStudio Cloud.
 
 ## The goal of your project is to predict the manner in which they did the exercise.
 
